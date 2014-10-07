@@ -1,7 +1,7 @@
 PyProductive
 ============
 
-Uses OpenCV to detect if you are at your computer, if not, sends a text message/email to remind you. Setup a cronjob to call productivityReminder.py. Before using, add your email username/password and phone number for text alerts.
+Uses OpenCV to detect if you are at your computer, if not, sends a text message/email to remind you. Setup a cronjob to call productivityReminder.py. Before using, add your email username/password and phone number for text alerts to textReminder.py.
 
 
 LICENSE
